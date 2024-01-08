@@ -23,7 +23,7 @@
 - - -
 ## pin角
 ![IMAGE](f810104c-7c3a-4816-822b-7ae4bde63a1d.jpg)
-
+![IMAGE](c3faa0ec-79f8-4060-98a6-447174b8b35e.jpg)
 
 - - -
 ## 操作方式

@@ -21,6 +21,9 @@
 ## 功能影片:
 * https://youtube.com/shorts/EamGJat3Qz8
 - - -
+## pin角
+
+- - -
 ## 操作方式
 使用4-bits Switch來控制方向，暫停的選項是8 DIPSW的紅色第3個開關
 <table>

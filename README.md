@@ -22,6 +22,8 @@
 * https://youtube.com/shorts/EamGJat3Qz8
 - - -
 ## pin角
+![IMAGE](f810104c-7c3a-4816-822b-7ae4bde63a1d.jpg)
+
 
 - - -
 ## 操作方式
